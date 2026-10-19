@@ -33,6 +33,9 @@ TubeNotes is an AI-powered application that analyzes YouTube videos and generate
 ├── ui.py                       # Streamlit user interface
 ├── youtube_video_analyzer.py   # AI agent and analysis logic
 ├── .gitignore (.env # API credentials (not committed))
+├── Output/
+│   ├── image.jpeg # (7 Images)
+│   └── youtube_analysis_report.md # (Downloaded Report)
 └── README.md
 ```
 
